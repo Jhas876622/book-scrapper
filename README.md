@@ -99,16 +99,6 @@ Title,Price,Rating,Availability
 
 ---
 
-## 🖼️ Screenshots (Optional)
-
-Add screenshots like:
-
-```<img width="1331" height="584" alt="image" src="https://github.com/user-attachments/assets/44fe7eee-8dae-4840-be9f-74759905214b" />
-
-```<img width="980" height="294" alt="image" src="https://github.com/user-attachments/assets/0e0442e2-97ce-4dfa-8146-33731ce897c0" />
-
-
-```
 
 ---
 
